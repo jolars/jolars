@@ -5,5 +5,5 @@ research focuses on sparse generalized linear models, such as the lasso and SLOP
 in particular algorithms with
 which to optimize the performance of these models in high-dimensional settings.
 
-Please check out my personal webpage at <https://larssonjohan.com/> where I occasionally blog
+Please check out my personal webpage at <https://jolars.co> where I occasionally blog
 about my research and software that I'm working on.
